@@ -1,0 +1,60 @@
+#inicio {
+    background-color: rgb(141, 150, 170);
+      /*background-image: url(../a1.jpg);
+  background-repeat: no-repeat;
+  background-size: 250%;
+    background-image: url(../a.jpg);
+    overflow-x: hidden;*/
+}
+body,html{
+    overflow-x: hidden;
+}
+#final {
+    color: blue;
+    font-style: italic;
+}
+#myHeader {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px 0; /* Ajusta el padding superior e inferior */
+    background-color: #e962b1; /* Fondo blanco para la barra */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra para un efecto visual */
+}
+#carouselExampleAutoplaying {
+    margin: 5% 0 5% 0;
+}
+.poetsen-one-regular {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+@media (max-width: 768px) {
+
+    body {
+        padding-top: 50px; /* Aumenta el padding-top en dispositivos pequeños si es necesario */
+         padding-right: 15px; /* Ajusta el espacio en el lado derecho */
+        padding-left: 15px; /* Ajusta el espacio en el lado izquierdo */
+    }
+    .nav-masthead {
+        flex-direction: row; /* Cambiar a fila en lugar de columna */
+        flex-wrap: wrap; /* Permitir que los elementos se envuelvan */
+        justify-content: center; /* Centrar los enlaces */
+    }
+    #myHeader{
+        padding: 0.1px; /* Ajusta el padding superior e inferior */
+    }
+    .nav-link {
+        margin: 2px; /* Margen entre los enlaces */
+        flex: 1 1 auto; /* Permitir que los enlaces se ajusten en una fila */
+        text-align: center; /* Centrar el texto */
+    }
+    #carouselExampleAutoplaying {
+        width: 100%; /* Establece el ancho máximo al 100% */
+        margin:  10% 0 5% 0;/* Elimina el margen */
+    }
+    
+    .carousel-item img {
+        max-height: 300px; /* Mantengo la altura máxima de las imágenes */
+        width: 100%; /* Asegura que las imágenes ocupen el 100% del contenedor */
+    }
+}
+
