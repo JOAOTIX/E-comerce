@@ -1,0 +1,37 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+#body{
+  background-color: #78beff;
+}
+#inicio{
+  border-radius: 8px; 
+  border-color: white;
+   color: white
+}
+#inicio:hover{
+  background-color: white;
+  color: black;
+}
+#myHeader{
+  font-family: 'Courier New', Courier, monospace;
+}
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.poetsen-one-regular {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
