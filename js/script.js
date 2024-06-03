@@ -272,7 +272,7 @@ function redirigirAWhatsApp() {
 
       mensaje += `El monto total es: S/${montoTotal}\n¿Me brindas más información?`;
 
-      const telefono = '+51953486091'; // Número de teléfono 
+      const telefono = '+51993839625'; // Número de teléfono 
       const whatsappLink = `https://wa.me/${telefono}?text=${encodeURIComponent(mensaje)}`;
       window.open(whatsappLink, '_blank');
       carrito = [];
