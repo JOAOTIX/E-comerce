@@ -1,0 +1,74 @@
+[
+  {
+      "nombre": "Falda hello kitty",
+      "precio": 30,
+      "imagen": [
+          "https://img.europapress.es/fotoweb/fotonoticia_20140828135134_690.jpg",
+          "https://img.europapress.es/fotoweb/fotonoticia_20140828135134_690.jpg"
+      ],
+      "descripcion": "esta falda tiene una falda wuwuwu"
+  },
+  {
+      "nombre": "Lampara hello kitty",
+      "precio": 40,
+      "imagen": [
+          "https://img.europapress.es/fotoweb/fotonoticia_20140828135134_690.jpg",
+          "https://img.europapress.es/fotoweb/fotonoticia_20140828135134_690.jpg"
+      ],
+      "descripcion": "esta falda tiene una falda wuwuwu"
+  },
+  {
+      "nombre": "Short Hello Kitty",
+      "precio": 20,
+      "imagen": [
+          "https://img.europapress.es/fotoweb/fotonoticia_20140828135134_690.jpg",
+          "https://img.europapress.es/fotoweb/fotonoticia_20140828135134_690.jpg"
+      ],
+      "descripcion": "esta falda tiene una falda wuwuwu"
+  },
+  {
+      "nombre": "Sombrilla hello kitty",
+      "precio": 50,
+      "imagen": [
+          "https://img.europapress.es/fotoweb/fotonoticia_20140828135134_690.jpg",
+          "https://img.europapress.es/fotoweb/fotonoticia_20140828135134_690.jpg"
+      ],
+      "descripcion": "esta falda tiene una falda wuwuwu"
+  },
+  {
+      "nombre": "Polo hello kitty",
+      "precio": 30,
+      "imagen": [
+          "https://img.europapress.es/fotoweb/fotonoticia_20140828135134_690.jpg",
+          "https://img.europapress.es/fotoweb/fotonoticia_20140828135134_690.jpg"
+      ],
+      "descripcion": "esta falda tiene una falda wuwuwu"
+  },
+  {
+      "nombre": "Platos hello kitty",
+      "precio": 40,
+      "imagen": [
+          "https://img.europapress.es/fotoweb/fotonoticia_20140828135134_690.jpg",
+          "https://img.europapress.es/fotoweb/fotonoticia_20140828135134_690.jpg"
+      ],
+      "descripcion": "esta falda tiene una falda wuwuwu"
+  },
+  {
+      "nombre": "Mouse Hello Kitty",
+      "precio": 20,
+      "imagen": [
+          "https://img.europapress.es/fotoweb/fotonoticia_20140828135134_690.jpg",
+          "https://img.europapress.es/fotoweb/fotonoticia_20140828135134_690.jpg"
+      ],
+      "descripcion": "esta falda tiene una falda wuwuwu"
+  },
+  {
+      "nombre": "Cubrecama hello kitty",
+      "precio": 50,
+      "imagen": [
+          "https://img.europapress.es/fotoweb/fotonoticia_20140828135134_690.jpg",
+          "https://img.europapress.es/fotoweb/fotonoticia_20140828135134_690.jpg"
+      ],
+      "descripcion": "esta falda tiene una falda wuwuwu"
+  }
+]
