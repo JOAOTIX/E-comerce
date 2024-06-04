@@ -51,11 +51,11 @@ Este proyecto es una simulación de una página web donde puedas comprar product
   La aplicación requiere acceso a Internet para cargar las bibliotecas externas (jQuery, Bootstrap, Font Awesome).
 
 ## Uso
-**Agregar Productos:** Ingresa la cantidad que quieras agregar con un máximo de 10 y minimo de 1 además selecciona la talla
-**Agregar Productos desde el carrito:** Agregas los productos de 1 en 1 con el boto de icono de cruz en el carrito
-**Eliminar Productos:** Elimina los productos de 1 en 1 con el boton de icono de tacho de basura en el carrito
-**Vaciar Carrito:** Haz clic en el botón "Vaciar carrito" para eliminar todos los productos de tu carrito
-**Comprar en Whatsapp:** Haz clic en el botón "Comprar en Whastapp" Para ir con todos tus productos a un chat.
+- **Agregar Productos:** Ingresa la cantidad que quieras agregar con un máximo de 10 y minimo de 1 además selecciona la talla
+- **Agregar Productos desde el carrito:** Agregas los productos de 1 en 1 con el boto de icono de cruz en el carrito
+- **Eliminar Productos:** Elimina los productos de 1 en 1 con el boton de icono de tacho de basura en el carrito
+- **Vaciar Carrito:** Haz clic en el botón "Vaciar carrito" para eliminar todos los productos de tu carrito
+- **Comprar en Whatsapp:** Haz clic en el botón "Comprar en Whastapp" Para ir con todos tus productos a un chat.
 
 ## Autor
 
