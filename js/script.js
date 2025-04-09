@@ -46,7 +46,7 @@ function cargarProductos() {
                   </div>
                </div>
                 <label for="cantidad-${producto.nombre}">Cantidad:</label>
-                <input type="number" id="cantidad-${producto.nombre}" placeholder="Max. 10 por cliente" min="1" max="10" class="form-control mb-3" oninput="this.value = Math.max(1, Math.min(10, parseInt(this.value)))" />
+                <input type="number" id="cantidad-${producto.nombre}" placeholder="Max. 10 por cliente" min="1" max="10" class="form-control mb-3" oninput="this.value = Math.max(1, Math.min(10, parseInt(this.value)))"  required />
 
                 <button class="btn btn-outline-info text-black" onclick="agregarAlCarrito('${producto.nombre}', ${producto.precio}, '${producto.imagen}')">Agregar al Carrito<i class="fas fa-shopping-cart ms-2"></i></button>
                 <button class="btn btn-outline-info text-black" onclick="voltearCarta(this)">Especificaciones<i class="fas fa-info-circle ms-2"></i></button>
